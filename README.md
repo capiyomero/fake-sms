@@ -1,4 +1,4 @@
-## Fake-SMS
+## Fake-SMS.1.0
 A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 
 **Latest update : The tool no longer uses upmasked.com, as the service went down. We are using another provider which provides more phone numbers across more countries. Make sure you pull the main branch before compiling.**
